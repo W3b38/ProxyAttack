@@ -4,7 +4,7 @@ npm install
 npm install minimist
 npm install cloudscraper
 
-git clone https://github.com/yottaiq/CloudAttack.git
+git clone https://github.com/W3b38/ProxyAttack.git
 cd CloudAttack
 chmod +x install.sh
 ./install.sh
